@@ -1,2 +1,3 @@
 # Stair-Climber
-Computes all way to climb n stairs with steps of 1,2, or 3.
+To be run from the command line using the makefile
+Usage: ./stairclimber [number_of_steps]
